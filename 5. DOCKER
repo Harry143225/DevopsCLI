@@ -65,7 +65,7 @@ apt install apache2 -y
 service apache2 start
 service apache2 status
 
-docker p q	: to exit container
+control+p q	: to exit container
 docker ps -a	: to list all containers
 
 
